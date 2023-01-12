@@ -103,4 +103,4 @@ while juego_en_curso:
         print("Ganador: ",jugadores[jugador_actual][0])
 
     #Cambio de jugador
-    jugador_actual = 1 if jugador_actual == 0 else 0
+    jugador_actual = 1 if jugador_actual == 0 else 0 //
